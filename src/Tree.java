@@ -5,11 +5,13 @@ public class Tree {
         //your code is here
     }
 
-    public boolean addChild(int val) {
+    public int addChild(int val) {
+        return val;
        //your code is here
     }
 
-    public boolean contains(int val) {
+    public int contains(int val) {
+        return val;
         //your code is here
     }
 

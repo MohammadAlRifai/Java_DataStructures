@@ -26,6 +26,7 @@ public class HashTable {
     public String retrieve(String key) {
         // your code is here
         int index = getIndexBelowMaxForKey(key, ARR_SIZE);
+        return key;
     }
 
     public void remove (String key) {
